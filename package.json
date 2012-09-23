@@ -6,7 +6,7 @@
   "repository": {
     "url": "https://github.com/keiouu/Streamer2"
   },
-  "main": "./index",
+  "main": "./bootstrap",
   "engines": {
     "node": "*"
   },
